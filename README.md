@@ -27,7 +27,7 @@ Code/
 │   ├───sentiment_processed_final.csv       # Nachverarbeitung der Stimmungseinschätzung (für jeden Titel nur positiv, negativ oder neutral)
 │   ├───turbulence_index.csv                # Turbulenz-Index über den gesamten Datensatz
 │
-├───Ensemble_Strategy/                      # Code des Papers 'Deep reinforcement learning for automated stock trading: an ensemble strategy' (Nur die hinzugefügten Dateien werden nachfolgenden aufgezählt)
+├───Ensemble_Strategy/                      # Code des Papers 'Deep reinforcement learning for automated stock trading: an ensemble strategy' (siehe https://github.com/AI4Finance-Foundation/FinRL-Trading/tree/master/old_repo_ensemble_strategy) (Nur die hinzugefügten Dateien werden nachfolgenden aufgezählt) 
 │   ├───evaluation (own)/
 │   │   ├───ensemble_strategy_results.csv   # Ergebnisse des Ensemble Agenten (mit 4 verschiedenen Startwerten des Zufallsgenerators trainiert)
 │   │   ├───eval_final.ipynb                # Analyse zu der Leistung des trainierten Ageten 
